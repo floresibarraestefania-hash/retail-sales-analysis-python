@@ -47,6 +47,10 @@ retail-sales-analysis-python/
 - The *Binders* sub-category shows repeated losses despite moderate order sizes.
 - Discount strategy appears to be a stronger driver of losses than sales volume.
 
+  ## Example Visualization
+
+![Impact of Discount on Profit (Binders)](reports/figures/binders_discount_profit.png)
+
 ## Tools Used
 - Python
 - pandas
