@@ -51,6 +51,16 @@ retail-sales-analysis-python/
 
 ![Impact of Discount on Profit (Binders)](reports/figures/binders_discount_profit.png)
 
+## Business Recommendations
+
+Based on the analysis of discounts and profitability, particularly in the *Binders* sub-category, the following actions are recommended:
+
+- Review discount policies for Binders, especially transactions with discounts ≥ 70%.
+- Implement approval controls for high discount levels to prevent consistent negative margins.
+- Reassess pricing strategy or supplier costs for products that frequently generate losses.
+- Limit extreme discounts to clearance campaigns or strategic promotions only.
+- Monitor profit impact by sub-category on a monthly basis to detect early warning signals.
+
 ## Tools Used
 - Python
 - pandas
